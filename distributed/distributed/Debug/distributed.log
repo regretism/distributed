@@ -1,0 +1,6 @@
+﻿cl : командная строка warning D9025: переопределение "/D_CRT_SECURE_NO_WARNINGS" на "/U_CRT_SECURE_NO_WARNINGS"
+cl : командная строка warning D9025: переопределение "/D_WINSOCK_DEPRECATED_NO_WARNINGS" на "/U_WINSOCK_DEPRECATED_NO_WARNINGS"
+  client.c
+  distributed.vcxproj -> C:\Users\max\source\repos\distributed\Debug\distributed.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
